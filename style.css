@@ -34,14 +34,14 @@ body {
   padding: 10px 40px;
   margin: 15px 0px;
   font-size: 1.75rem;
-  border: 5px solid #4400ff;
+  border: 5px double white;
 }
 
 .button:hover {
-  border: 5px solid black;
+  border: 5px double white;
   cursor: pointer;
 }
 
 .button:active {
-  border: 5px solid #ffd300;
+  border: 5px solid white;
 }
